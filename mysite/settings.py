@@ -25,7 +25,7 @@ SECRET_KEY = '7s71mxza_^8s(t!llc^1=d&ggy3hk$gi7k*okca)5&!w=#w0#@'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['jumania2000.pythonanywhere.com']
 
 
 # Application definition
